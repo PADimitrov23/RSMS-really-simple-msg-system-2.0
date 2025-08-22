@@ -79,7 +79,6 @@ bool insertSender(sqlite3* db, string sender, string message)
     return true;
 }
 
-//Tbh this last function was written by ChatGPT pls look into it
 
 vector<Message> getAllMessages(sqlite3* db)
 {
