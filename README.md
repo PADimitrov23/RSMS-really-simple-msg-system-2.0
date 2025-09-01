@@ -1,4 +1,4 @@
-How to start the program
+How to start the program (abandoned)
 
 Linux:
 
@@ -6,6 +6,9 @@ Linux:
 2. g++ -g main.cpp database.cpp chat-history-ui.cpp ask-to-type-msg.cpp -o simple-msg-system -lsqlite3
 3.  ./really-simple-msg-system-2.0
 
+4.  Also you will need to install all the SQLite3 necessity needed to run this project succesfully /
+Q.N | I will probably not configure a CMake because this project is just an unfinished version  of this project which im currently working on. -> https://github.com/PADimitrov23/RSMS-really-simple-msg-system-3.0-live
+ 
         "⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣤⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀",
         "⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⣿⣿⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⣿⣿⣿⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀",
         "⠀⠀⠀⠀⠀⠀⠀⠀⢀⣾⣿⣿⣿⣿⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼⣿⣿⣿⣿⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀",
